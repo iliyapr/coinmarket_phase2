@@ -24,9 +24,6 @@ Clustering result of K = 5  with DBSCAN:
 
 ## Getting Started
 Clone this repository:
-
-bash
-Copy code
 git clone https://github.com/iliyapr/coinmarket_phase2.git
 Refer to the Jupyter Notebook or code files to replicate the analysis and explore the results.
 
