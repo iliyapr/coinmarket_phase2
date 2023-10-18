@@ -1,4 +1,4 @@
-# coinmarket_phase2
+# Coinmarket_phase2
 ## question 1 Part 1: K-Means Clustering
 In the first part of the analysis, we applied the K-Means clustering algorithm using only two features, cap market and volume, to cluster the dataset into 5 clusters. We then plotted the results on a scatter plot, highlighting which data points belong to each cluster. The center of each cluster is also marked on the plot.
 ## question 1 Part 2: Choosing the Optimal K
